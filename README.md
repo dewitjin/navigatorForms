@@ -13,9 +13,11 @@ Download the PDF to see the database schema.
 
 [formsGithub.pdf](https://github.com/dewitjin/navigatorForms/files/1432645/formsGithub.pdf)
 
+Attached is the visio file (formsGithub.vsdx) I have used to create the start of the database schema. It will probably be changed in the future to fit application requirements.
+
 ## Code Example
 
-Attached is the visio file I have used to create the start of the database schema. It is a work in progress and will probably be changed in the future to fit application requirements.
+
 
 ## Installation
 
